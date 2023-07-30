@@ -15,6 +15,3 @@
 
 ### Contact.
 - email : [leejinlee.kr@gmail.com](mailto:leejinlee.kr@gmail.com)
-
-### Others.
-![Jinft-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinft-kr&count_private=true)
